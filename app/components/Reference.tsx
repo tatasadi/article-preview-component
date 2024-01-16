@@ -28,7 +28,7 @@ export default function Reference() {
       <div>
         <a
           className="footer-link"
-          href="https://github.com/tatasadi/"
+          href="https://github.com/tatasadi/article-preview-component"
           target="_blank"
           rel="noreferrer noopener"
         >
