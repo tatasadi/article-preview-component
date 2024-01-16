@@ -6,7 +6,7 @@ import Reference from "./components/Reference"
 const manrope = Manrope({ subsets: ["latin"], weight: ["500", "700"] })
 
 export const metadata: Metadata = {
-  title: "Frontend Mentor Challenge",
+  title: "Article Preview Component",
   description: "A Challenge from Frontend Mentor!",
 }
 
