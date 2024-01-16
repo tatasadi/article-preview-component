@@ -85,13 +85,13 @@ export default function Home() {
                 <p className="text-[0.8125rem] font-medium uppercase leading-5 tracking-[0.3125rem] text-grayish-blue">
                   Share
                 </p>
-                <div className="relative h-5 w-5">
+                <div className="relative h-5 w-5 cursor-pointer">
                   <Image src={iconFacebook} alt="facebook" />
                 </div>
-                <div className="relative h-5 w-5">
+                <div className="relative h-5 w-5 cursor-pointer">
                   <Image src={iconTwitter} alt="twitter" />
                 </div>
-                <div className="h-5 w-5">
+                <div className="h-5 w-5 cursor-pointer">
                   <Image src={iconPintrest} alt="pintrest" />
                 </div>
                 <div
